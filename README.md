@@ -6,8 +6,7 @@ To clone this project ..
 git clone https://github.com/thejus-r/polls
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) & [git](https://git-scm.com) installed.*
-
+_Note that you will need to have [Node.js](https://nodejs.org) & [git](https://git-scm.com) installed._
 
 ## Get started
 
@@ -25,3 +24,5 @@ npm run dev
 ```
 
 Navigate to [localhost:5000](http://localhost:5000).
+
+Thanks to [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) for the Tutorials
