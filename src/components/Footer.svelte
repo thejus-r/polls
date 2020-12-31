@@ -1,14 +1,10 @@
-<footer>
-    <div class="copyright">Copyright 2020 Polls Svelte</div>
-</footer>
-
 <style>
-    footer{
-        padding:  40px;
+    footer {
+        padding: 40px;
         text-align: center;
     }
 
-    .copyright{
+    .copyright {
         color: #aaa;
         font-size: 14px;
         display: inline-block;
@@ -16,3 +12,7 @@
         border-top: 1px solid #ddd;
     }
 </style>
+
+<footer>
+    <div class="copyright">Copyright 2020 Polls Svelte</div>
+</footer>
